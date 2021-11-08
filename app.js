@@ -1,4 +1,4 @@
-let menu = prompt("Selecciona que operación quieres hacer: Suma(1)  Resta(2) Multiplicación(3)  División(4)  Mas opciones (5-10)");
+let menu = prompt("Selecciona que operación quieres hacer: Suma(1)  Resta(2) Multiplicación(3)  División(4)");
 let menum = parseInt(menu);
 // submenu para suma
 if(menum == 1){
