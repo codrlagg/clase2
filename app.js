@@ -156,11 +156,11 @@ else if(menum == 4){
         let var2num = parseInt(var2);
         console.log("var2: "+var2num);
         // dividir valores
-        let resultado = var1num * var2num;
+        let resultado = var1num / var2num;
         console.log("resultado: "+resultado);
         alert("La division es " + resultado);
         }
 }
 else {
-    console.log("No furula");
+    console.log("Selección no válida");
 }
